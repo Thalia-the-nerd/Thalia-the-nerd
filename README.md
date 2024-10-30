@@ -5,3 +5,4 @@
 - 📫 How to reach me discord @thalia_the_nerd
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Im super epic
+I use Arch linux btw
