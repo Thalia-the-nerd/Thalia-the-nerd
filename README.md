@@ -23,3 +23,10 @@ I'm a nerd who loves building highly dynamic, aesthetically pleasing systems and
 </p>
 
 ---
+
+### 🚀 Featured Projects
+- **[Tarmac Vulture OS](https://github.com/Thalia-the-nerd/tarmac-vulture-os)**: The core OS framework powering Austerlitz Dynamics.
+- **[Scoutification](https://github.com/Thalia-the-nerd/scoutification)**: An offline-first, high-density scouting PWA for FRC robotics.
+- **[MQ-9A UI](https://github.com/Thalia-the-nerd/mq9a-frontend)**: A premium "glassmorphism" fighter-jet HUD aesthetic for 1/12 scale drone modeling.
+
+---
