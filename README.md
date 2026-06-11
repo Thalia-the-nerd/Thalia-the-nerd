@@ -38,3 +38,7 @@ I'm a nerd who loves building highly dynamic, aesthetically pleasing systems and
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Reach_Out-Let's_Chat!-blue?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord" />
+</div>
