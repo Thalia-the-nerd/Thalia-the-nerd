@@ -14,3 +14,12 @@ I'm a nerd who loves building highly dynamic, aesthetically pleasing systems and
 - 💻 **Linux Ricing:** Perfecting my Hyprland dotfiles with smooth animations, neon aesthetics, and BoyWithUke vibes.
 
 ---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,ts,js,html,css" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,neovim,git,bash,fastapi,flask,sqlite" alt="Tools" />
+</p>
+
+---
