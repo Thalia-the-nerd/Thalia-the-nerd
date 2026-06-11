@@ -30,3 +30,11 @@ I'm a nerd who loves building highly dynamic, aesthetically pleasing systems and
 - **[MQ-9A UI](https://github.com/Thalia-the-nerd/mq9a-frontend)**: A premium "glassmorphism" fighter-jet HUD aesthetic for 1/12 scale drone modeling.
 
 ---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thalia-the-nerd&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" alt="Thalia's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalia-the-nerd&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" alt="Top Languages" width="48%" />
+</div>
+
+<br>
